@@ -115,7 +115,11 @@ Randomforest-food-delivery/
 ├── optimized_rf_model.pkl
 ├── label_encoders.pkl
 ├── requirements.txt
-└── README.md
+├── README.md
+│
+└── assets/
+    ├── home.png
+    └── prediction.png
 ```
 
 ---
