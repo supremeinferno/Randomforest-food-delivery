@@ -36,15 +36,15 @@ Target Variable:
 
 ### Home Page
 
-```text
-Add home page screenshot here
-```
+<p align="center">
+  <img src="assets/Screenshot1.png" width="900">
+</p>
 
 ### Prediction Result
 
-```text
-Add prediction screenshot here
-```
+<p align="center">
+  <img src="assets/Screenshot2.png" width="900">
+</p>
 
 ---
 
